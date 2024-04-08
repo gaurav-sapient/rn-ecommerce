@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+ios/
+android/
+vendor/
+
+.DS_Store
